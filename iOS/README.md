@@ -185,6 +185,9 @@ A : 마지막 강한 참조가 더 이상 객체를 가리키지 않으면 객�
   * File
   * CoreData
   * Etc...
+  
+sqlite와 coredata 차이 : 
+https://www.letmecompile.com/%EC%BD%94%EC%96%B4%EB%8D%B0%EC%9D%B4%ED%84%B0core-data%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4/
 
 - Dynamic Binding
 
